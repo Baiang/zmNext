@@ -6,7 +6,7 @@
 2. npm install
 
 ### 维护
-后续会持续维护node 8的兼容
+持续维护node 8的兼容
 
 ### 开发遇错反馈：
 https://github.com/Baiang/zmNext/issues
