@@ -14,6 +14,7 @@ https://github.com/Baiang/zmNext
 
 ### windows环境
 问题1：node-gyp报错， 确认是否windows平台缺少编译环境
+
 解决：运行 npm install –production windows-build-tools -g
 
 问题2：bcrypt编译报错
