@@ -9,8 +9,8 @@
 4. npm rebuild （npm install有node-gyp错误时执行，依然有错误，查看问题1，再执行npm rebuild；如果bcrypt编译报错，查看问题2）
 
 ### 开发遇错反馈：
-大家在本地进行开发报错后，及时进行反馈，我这边会及时进行修复和解决。
-https://github.com/Baiang/zmNext
+在本地进行开发报错后，及时进行反馈，当前升级方案会持续维护。
+https://github.com/Baiang/zmNext/issues
 
 ### windows环境
 问题1：node-gyp报错， 确认是否windows平台缺少编译环境
