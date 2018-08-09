@@ -18,9 +18,11 @@ https://github.com/Baiang/zmNext
 解决：运行 npm install –production windows-build-tools -g
 
 问题2：bcrypt编译报错
+
 解决：运行 npm install bcrypt --msvs_version=2012
 
 问题3：npm rebuild卡着不动、npm install卡着
+
 解决：重新运行 npm install 或 yarn，或者翻墙。
 
 ### macOS环境
