@@ -2,6 +2,17 @@
 
 老项目node v8升级方案。注：未进行反复测试，谨慎在生产环境进行部署
 
+### package.json升级或需要安装模块
+```
+{
+    "node-forge": "^0.7.5",
+    "node-gyp": "^3.7.0",
+    "yog2": "^1.6.0",
+    "yog2-kernel": "^1.9.2",
+    "xml2json": "^0.9.0",
+}
+```
+
 ### 升级方式
 1. 更新package.json
 2. npm install -g node-gyp
