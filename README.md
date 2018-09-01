@@ -6,6 +6,7 @@
 ```
 {
     "bcrypt": "^3.0.0",
+    "chokidar": "^2.0.4",
     "node-forge": "^0.7.5",
     "node-gyp": "^3.7.0",
     "yog2": "^1.6.0",
@@ -15,7 +16,7 @@
 ```
 
 ### 升级方式
-1. 更新package.json，或执行`npm i -S bcrypt@3.0.0 node-forge@0.7.5 node-gyp@3.7.0 yog2@1.6.0 yog2-kernel@1.9.2 xml2json@0.9.0`
+1. 更新package.json，或执行`npm i -S bcrypt@3.0.0 chokidar@2.0.4 node-forge@0.7.5 node-gyp@3.7.0 yog2@1.6.0 yog2-kernel@1.9.2 xml2json@0.9.0`
 2. npm install -g node-gyp
 3. npm install(windows在git Bash图形界面下执行)
 4. npm rebuild （npm install有node-gyp错误时执行，依然有错误，查看下方问题1，再执行npm rebuild；如果bcrypt编译报错，查看问题2）
