@@ -25,7 +25,7 @@
 在本地进行开发报错后，及时进行反馈，当前升级方案会持续维护。
 https://github.com/Baiang/zmNext/issues
 
-### windows环境问题
+#### 1. windows环境问题
 问题1：node-gyp报错， 确认是否windows平台缺少编译环境
 
 解决：以管理员身份运行 npm install –production windows-build-tools -g
@@ -38,6 +38,6 @@ https://github.com/Baiang/zmNext/issues
 
 解决：重新运行 npm install 或 yarn，或者翻墙。
 
-### macOS环境问题
+#### 2. macOS环境问题
 问题1：node-gyp报错
 解决：在终端运行xcode-select --install
