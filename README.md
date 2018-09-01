@@ -38,6 +38,10 @@ https://github.com/Baiang/zmNext/issues
 
 解决：重新运行 npm install 或 yarn，或者翻墙。
 
+问题4：Error: Could not locate the bindings file. Tried:错误
+
+解决：npm rebuild
+
 #### 2. macOS环境问题
 问题1：node-gyp报错
 解决：在终端运行xcode-select --install
