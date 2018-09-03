@@ -47,4 +47,4 @@ https://github.com/Baiang/zmNext/issues
 解决：在终端运行xcode-select --install
 
 ### 操作演示
-[![asciicast](https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv.png)](https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv)
+https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv
