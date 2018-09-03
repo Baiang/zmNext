@@ -1,6 +1,6 @@
 # yog2 node v8升级方案
 
-老项目node v8升级方案。注：目前支持mac、win10、centos7环境，其它环境未测试。
+老项目node v8升级方案。注：目前支持win10、centos7环境，mac(有重启现象，正在修复中，不影响开发)、其它环境未测试。
 
 ### package.json升级或需要安装模块
 ```
