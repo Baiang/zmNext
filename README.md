@@ -45,3 +45,5 @@ https://github.com/Baiang/zmNext/issues
 #### 2. macOS环境问题
 问题1：node-gyp报错
 解决：在终端运行xcode-select --install
+
+https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv
