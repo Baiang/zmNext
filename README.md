@@ -46,4 +46,5 @@ https://github.com/Baiang/zmNext/issues
 问题1：node-gyp报错
 解决：在终端运行xcode-select --install
 
-https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv
+### 视频演示
+[![asciicast](https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv.png)](https://asciinema.org/a/TQcanTX9whIfjTVYrMNePJebv)
